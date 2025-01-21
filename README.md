@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @enovikov11
-- 👀 I’m developer at Yandex
-- 💞️ I’m looking to collaborate on github.com/yandex/metrica-tag
-- 📫 How to reach me https://t.me/enovikov11
-
-<!---
-enovikov11/enovikov11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @enovikov11 and this is my personal pet projects page
+- 👀 My primary occupation is as a Senior Software Engineer at Microsoft Serbia 🇷🇸
+- 📫 How to reach me https://t.me/enovikov11, https://linkedin.com/in/enovikov11/, or enovikov11 at outlook.com
+- 🌐 Check out my personal web site https://tgr.rs/
+- 👤 Any project you see pinned on my page may be interesting to use or collaborate on
